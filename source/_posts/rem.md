@@ -25,7 +25,7 @@ npm i postcss-px2rem
     "plugins": {
         "autoprefixer": {},
         "postcss-px2rem": {
-            "remUnit": 37.5
+            "remUnit": 75
         }
     }
 }
